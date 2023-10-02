@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  height: 100vh;
 }
 
 .App-logo {
@@ -11,6 +11,11 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.home {
+  background-image: url(./assets/header.jpg);
+  height: 100vh;
 }
 
 .App-header {
